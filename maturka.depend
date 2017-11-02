@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1509653682 source:c:\users\zielonek\documents\maturka\main.cpp
-	<iostream>
-	<string>
-	<fstream>
-	<cstdlib>
-
